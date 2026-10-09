@@ -62,7 +62,7 @@ Version 1 treats every game the same. Version 2 gives each game its own odds bas
 - Knowing the starters flips the favorite: from Brewers 52% (version 1) to Dodgers 56%.
 - The swing comes from Dustin May (4.72 ERA) lining up against Yamamoto in Games 3 and 7.
 - The Game 4 starter barely matters (about 1 point). The Game 7 starter matters most: bringing Misiorowski back moves the series to a coin flip.
-
+![Brewers series odds under three model versions](nlcs_model_versions.png)
 **My pick:** Brewers in 6, closing it out at home before a Game 7 is needed.
 
 ## Data and methods
